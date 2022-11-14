@@ -85,3 +85,4 @@ import calendar
 cal = calendar.month(2017, 7)
 print ("以下输出2017年7月份的日历:")
 print (cal);
+print("frist python at the VS code and github,it's very nice")
